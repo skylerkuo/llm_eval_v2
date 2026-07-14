@@ -1,0 +1,15 @@
+# Model weights — never upload
+*.gguf
+*.GGUF
+*.bin
+*.safetensors
+
+# Python / local junk
+__pycache__/
+*.py[cod]
+.gradio/
+.vscode/
+.cursor/
+.env
+.venv/
+venv/

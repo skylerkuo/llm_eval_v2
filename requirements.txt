@@ -1,0 +1,15 @@
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+llama-cpp-python
+gradio>=4.0.0
+faster-whisper
+websockets
+rich
+pyyaml
+httpx
+
+# Optional — enable vision.enabled in config.yaml
+# transformers
+# torch
+# pillow
